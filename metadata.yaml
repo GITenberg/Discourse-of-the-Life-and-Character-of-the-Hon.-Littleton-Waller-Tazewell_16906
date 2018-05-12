@@ -1,0 +1,27 @@
+_repo: Discourse-of-the-Life-and-Character-of-the-Hon.-Littleton-Waller-Tazewell_16906
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grigsby, Hugh Blair
+    birthdate: 1806
+    deathdate: 1881
+    gutenberg_agent_id: '7009'
+    url: http://www.gutenberg.org/2009/agents/7009
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Blair_Grigsby
+description: ''
+gutenberg_issued: '2005-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16906'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Tazewell, Littleton Waller, 1774-1860'
+title: Discourse of the Life and Character of the Hon. Littleton Waller Tazewell
+url: http://www.gutenberg.org/ebooks/16906
